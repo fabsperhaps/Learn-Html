@@ -1,0 +1,5 @@
+<a href="index.html"><TD VALIGN="TOP">Startseite</TD>
+<TD VALIGN="TOP">  |  </TD>
+<a href="html/html-p1.html"><TD VALIGN="TOP">HTML</TD>
+<TD VALIGN="TOP">  |  </TD>
+<a href="css/css-p1.html"><TD VALIGN="TOP">CSS</TD>
